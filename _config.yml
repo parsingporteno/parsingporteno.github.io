@@ -1,0 +1,16 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+exclude:          ["README.md"]
+username:         parsingporteno
+baseurl:          'http://parsingporteno.github.io/blog-parsing-porteno/'
+
+# Setup
+title:            Parsing Porteño
+tagline:          'Code spiced up with mate, meat and tango.'
+description:      'The blog of a Porteño who is busy parsing code while getting used to mate.'
+url:              'http://parsingporteno.github.io/blog-parsing-porteno/'
+paginate:         5
